@@ -1,0 +1,19 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "title": "Star Wars 1",
+      "path": "http://localhost:3000/sw1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Star Wars 2",
+      "path": "http://localhost:3000/sw2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Star Wars 3",
+      "path": "http://localhost:3000/sw3.jpg"
+    }
+  ]
+}
